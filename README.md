@@ -1,4 +1,4 @@
-# Reciando pagina inicial do Instagram
+# Recriando pagina inicial do Instagram
 
 <p>
 <img src="./.github/img1.png" alt="desktop">
